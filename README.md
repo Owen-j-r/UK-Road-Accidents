@@ -1,6 +1,6 @@
 # UK Road Accidents Analysis
 
-** Please find a more in depth description and guide to this project in my https://www.datascienceportfol.io/Owenjr account**
+**Please find a more in depth description and guide to this project in my https://www.datascienceportfol.io/Owenjr account**
 
 This repository contains data and analysis for UK road accidents from 2005 to 2021. The main goal of this project is to explore and visualize the data to identify patterns and insights related to road accidents in the UK.
 
